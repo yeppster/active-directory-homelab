@@ -83,7 +83,7 @@ HR users receive a mapped `H:` drive and a policy that restricts access to Contr
 </p>
 
 <p align="center">
-  <img src="screenshots/hr-mapped-drive-success.png" width="650">
+  <img src="screenshots/hr-mapped-drive-successful.png" width="650">
 </p>
 
 IT users receive their own mapped `I:` drive.
