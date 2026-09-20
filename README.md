@@ -8,7 +8,7 @@ The lab includes segmented virtual networks, Active Directory Domain Services, D
 ## Network Diagram
 
 <p align="center">
-  <img src="active-directory-diagram.drawio.png" width="500">
+  <img src="screenshots/active-directory-diagram.drawio.png" width="500">
 </p>
 
 ## Network Architecture
